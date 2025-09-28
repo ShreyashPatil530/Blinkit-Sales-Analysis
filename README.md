@@ -211,7 +211,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📧 Contact
 
-**Your Name** - shreyashpatil530@gmail.com
+**Name** - shreyash patil
 
 Project Link: https://github.com/ShreyashPatil530/Blinkit-Sales-Analysis/tree/main
 
