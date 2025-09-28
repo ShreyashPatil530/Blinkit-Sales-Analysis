@@ -83,7 +83,7 @@ Power BI Desktop (for dashboard viewing)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Blinkit-Sales-Analysis.git
+git clone https://github.com/ShreyashPatil530/Blinkit-Sales-Analysis/tree/main
 cd Blinkit-Sales-Analysis
 ```
 
@@ -211,9 +211,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📧 Contact
 
-**Your Name** - your.email@example.com
+**Your Name** - shreyashpatil530@gmail.com
 
-Project Link: [https://github.com/yourusername/Blinkit-Sales-Analysis](https://github.com/yourusername/Blinkit-Sales-Analysis)
+Project Link: https://github.com/ShreyashPatil530/Blinkit-Sales-Analysis/tree/main
 
 ## 📄 License
 
@@ -230,6 +230,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Blinkit-Sales-Analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Blinkit-Sales-Analysis?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/Blinkit-Sales-Analysis?style=social)
+![GitHub stars](https://img.shields.io/github/stars/shreyashpatil530/Blinkit-Sales-Analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shreyashpatil530/Blinkit-Sales-Analysis?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/shreyashpatil530/Blinkit-Sales-Analysis?style=social)
